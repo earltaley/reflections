@@ -8,3 +8,8 @@ How is the staging area different from the working directory and the repository?
 The staging area is different because it's where you are setting up its files to be committed. You assign via 'git add' command which files to be staged for the repository.
 
 The staging area offers a benefit of grouping multiple files together for a single commit. (Can you also remove from staging area? If so, the benefit is generally more control over your commits.)
+=====================================================================
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Combine each logical change into one commit by adding files to staging area first, together, then do a single commit for them.
