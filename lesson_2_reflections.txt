@@ -20,6 +20,7 @@ What are some situations when branches would be helpful in keeping your history 
 Branches would be helpful when you're creating different modifications that you may or may not use in the future. You can commit various versions of that branch, but also access the originals.
 =====================================================================
 
+How do the diagrams help you visualize the branch structure?
 
-
+The diagrams show where commits are connected and where they branch off. You can see which is master, and identify any unreachable versions.
 
