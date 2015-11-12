@@ -13,3 +13,13 @@ The staging area offers a benefit of grouping multiple files together for a sing
 How can you use the staging area to make sure you have one commit per logical change?
 
 Combine each logical change into one commit by adding files to staging area first, together, then do a single commit for them.
+=====================================================================
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful when you're creating different modifications that you may or may not use in the future. You can commit various versions of that branch, but also access the originals.
+=====================================================================
+
+
+
+
