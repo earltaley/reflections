@@ -40,7 +40,15 @@ When you merge 2 branches together, you have a version that has information abou
 
 We represent it in the diagram in such a way that we see where versions meet and diverge.
 
+=====================================================================
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
++ : auto can be quick and convenient
+- : auto does not always know what to merge
+
++ : manual gives you more control
+- : manual might be slower and maybe you'll make a mistake
 
 
 
