@@ -36,7 +36,7 @@ We represent it in the diagram so that you can understand the parents and branch
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-When you merge 2 branches together, you have a version that has information about both parent versions (keep the git log history).
+When you merge 2 branches together, you have a version that has information about both parent versions (keep the git log history). This version has compared differences to parent versions, between the 2 branches.
 
 We represent it in the diagram in such a way that we see where versions meet and diverge.
 
