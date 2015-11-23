@@ -18,3 +18,8 @@ Clone: copy of version with commit history (git log); can be forked or on cloned
 
 Branches: Version history with each commit tracing back to its parent, and head is the current commit; use to track changes, fix bugs, modify features, update
 
+=====================================================================
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can compare the last known state to any updated versions by viewing git log and gt diff. This way you can inspect changes and conflicts. You can keep the copy as a separate version before you merge local and remote copy or update the copy.
