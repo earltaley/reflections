@@ -23,3 +23,23 @@ Branches: Version history with each commit tracing back to its parent, and head 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can compare the last known state to any updated versions by viewing git log and gt diff. This way you can inspect changes and conflicts. You can keep the copy as a separate version before you merge local and remote copy or update the copy.
+
+=====================================================================
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+WithOUT Git or GitHub:
+- Hard to indicate changes and sources especially when multiple collaborators involved
+- Easy for most people in the non-coding world because the ability to use Git and GitHub is a specialized kind of skill, not intuitive, have to learn it
+- Probably create multiple copies of files instead, and rename them by date or something
+
+WITH Git or GitHub:
+- Changes are clearly indicated by comments and highlighting (subtractions & additions)
+- Review before merging to master
+- Easy to edit from different accounts and computers to assist collaboration
+- Checkout different branches instead of having a bunch of copies on hard drive or on cloud storage
+
+
+
+
+
