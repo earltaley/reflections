@@ -39,6 +39,11 @@ WITH Git or GitHub:
 - Easy to edit from different accounts and computers to assist collaboration
 - Checkout different branches instead of having a bunch of copies on hard drive or on cloud storage
 
+=====================================================================
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Make changes in a separate branch instead of directly in master when collaborating with others, making experimental changes, before merging into master.
+Benefits: approve or edit before incorporating changes, prevent breaking master, reach some kind of confirmation or consensus before changing master
 
 
 
